@@ -68,7 +68,7 @@ Neither dataset requires an API key for the methods used here.
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/worcester-air-quality.git
+git clone https://github.com/kolokoder/Worcester_DPH.git
 cd worcester-air-quality
 pip install -r requirements.txt
 ```
