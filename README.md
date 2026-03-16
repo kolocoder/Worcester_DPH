@@ -34,7 +34,7 @@ worcester-air-quality/
 
 ## Scripts
 
-### 1. `epa_aqs_worcester.py` — EPA Regulatory Monitors
+### 1. `epa_aqs.py` — EPA Regulatory Monitors
 
 Analyzes daily PM2.5 from EPA AQS monitors in Worcester County.  
 → See [`docs/README_epa_aqs.md`](docs/README_epa_aqs.md) for full dataset and usage guide.
