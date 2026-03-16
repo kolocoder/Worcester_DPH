@@ -97,4 +97,4 @@ Worcester adults and youth have asthma rates above the Massachusetts state avera
 
 **Samuel Chibuoyim Uche**  
 PhD Candidate, Computer Science — Worcester Polytechnic Institute  
-scuche@wpi.edu | [LinkedIn](https://www.linkedin.com/in/samuelchibuoyimuche/)
+[LinkedIn](https://www.linkedin.com/in/samuelchibuoyimuche/)
